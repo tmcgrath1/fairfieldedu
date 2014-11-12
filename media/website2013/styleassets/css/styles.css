@@ -720,6 +720,10 @@ padding-left: 14px; padding-left: 4px \9; margin-bottom: 0;
 .form-search .input-prepend,
 .form-inline .input-prepend,
 .form-horizontal .input-prepend,
+/* #top-nav-container li a { color: #460000; font-size: 12px; text-decoration: none; } */
+#top-nav-container li a {
+  color: #000000; font-size: 12px; text-decoration: none; text-shadow: 0px 0px 5px #e61236
+}
 .form-search .input-append,
 .form-inline .input-append,
 .form-horizontal .input-append { display: inline-block; *display:
@@ -728,6 +732,10 @@ inline; *zoom: 1; margin-bottom: 0; vertical-align: middle; }
 .form-search .hide,
 .form-inline .hide,
 .form-horizontal .hide { display: none; }
+
+#main-nav li a {
+padding: 15px;}
+
 
 .form-search label,
 .form-inline label,
