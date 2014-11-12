@@ -721,9 +721,9 @@ padding-left: 14px; padding-left: 4px \9; margin-bottom: 0;
 .form-inline .input-prepend,
 .form-horizontal .input-prepend,
 /* #top-nav-container li a { color: #460000; font-size: 12px; text-decoration: none; } */
-#top-nav-container li a {
-  color: #000000; font-size: 12px; text-decoration: none; text-shadow: 0px 0px 5px #e61236
+#top-nav-container li a {color: #000000; font-size: 12px; text-decoration: none; text-shadow: 0px 0px 5px #e61236
 }
+
 .form-search .input-append,
 .form-inline .input-append,
 .form-horizontal .input-append { display: inline-block; *display:
@@ -732,10 +732,6 @@ inline; *zoom: 1; margin-bottom: 0; vertical-align: middle; }
 .form-search .hide,
 .form-inline .hide,
 .form-horizontal .hide { display: none; }
-
-#main-nav li a {
-padding: 15px;}
-
 
 .form-search label,
 .form-inline label,
@@ -884,7 +880,7 @@ text-align: right; }
 #main-nav li { float: left; margin: 0; padding: 0; }
 #main-nav li a { background: url('../images/main-nav-hover.gif')
 repeat-x center 80px; color: #fff; display: block; font-size: 13px;
-padding: 30px 15px; text-decoration: none; transition: background .1s
+padding: 15px; text-decoration: none; transition: background .1s
 linear; -moz-transition: background .1s linear; -webkit-transition:
 background .1s linear; }
 #main-nav li a:hover { background: url('../images/main-nav-hover.gif')
